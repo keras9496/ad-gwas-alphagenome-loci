@@ -60,3 +60,6 @@ Console messages and comments are in Korean, as in the original analysis.
 - Variant-effect predictions: AlphaGenome Atlas, obtained through the AlphaGenome API under its terms of use
 - Annotations: Ensembl release 116 (REST API, accessed September 2026); GTEx v8 (GTEx portal)
 - MPRA: allelic activity tables from the publications cited in the paper
+
+## License
+The code is released under the MIT License (`LICENSE`). The license covers this code only, not the data sources above, which keep their own terms of use.
