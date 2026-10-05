@@ -1,0 +1,25 @@
+# data and outputs are not part of this repository
+results/
+figures/
+data/
+*.parquet
+*.npz
+*.pgen
+*.pvar
+*.psam
+*.gz
+*.docx
+*.pptx
+*.pdf
+# keys and local settings
+.api_key
+*.key
+.env
+# runtime
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+Thumbs.db
+desktop.ini
+.DS_Store
